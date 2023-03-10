@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Dynamic AutoComplete TextView</string>
+    <string name="hint">Hint</string>
+    <string name="submit">Submit</string>
+    <string name="submitted_language">Submitted Language</string>
+
+    <string-array name="Languages">
+
+        <item>Java</item>
+        <item>Python</item>
+        <item>Php</item>
+        <item>JavaScript</item>
+        <item>Jquery</item>
+        <item>Swift</item>
+        <item>Sql</item>
+        <item>Scala</item>
+        <item>Perl</item>
+        <item>C language</item>
+        <item>C++</item>
+        <item>C# Sharp</item>
+
+    </string-array>
+</resources>
